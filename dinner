@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Site</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cookie">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400|Roboto:300,400,700">
+    <link rel="stylesheet" href="assets/css/Article-Clean.css">
+    <link rel="stylesheet" href="assets/css/Article-List.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-v2-Modal--Full-with-Google-Map.css">
+    <link rel="stylesheet" href="assets/css/Dark-Footer.css">
+    <link rel="stylesheet" href="assets/css/Dark-Footer.css">
+    <link rel="stylesheet" href="assets/css/Dark-Footer.css">
+    <link rel="stylesheet" href="assets/css/Dark-Footer.css">
+    <link rel="stylesheet" href="assets/css/Dark-Footer.css">
+    <link rel="stylesheet" href="assets/css/Dark-Footer.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="assets/css/Sammy-Timeline.css">
+    <link rel="stylesheet" href="assets/css/sticky-dark-top-nav-with-dropdown.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Testimonials.css">
+    <link rel="stylesheet" href="assets/css/Pretty-Footer.css">
+    <link rel="stylesheet" href="assets/css/Pretty-Registration-Form.css">
+    <link rel="stylesheet" href="assets/css/Hero-Technology.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md navbar-fixed-top navigation-clean-button" style="color:rgb(255,255,255);background-color:rgb(234,234,234);height:170px;">
+        <div class="container"><a class="navbar-brand" href="#"><span><a href="index.html"><img src="assets/img/ea2d05ce-0c56-4b77-ae33-ddf97aba6e68.png" style="color:rgb(255,255,255);"></a>&nbsp; &nbsp;&nbsp;</span>
+            </a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav nav-right">
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html" style="background-color:#ffffff;color:rgb(0,0,0);">home </a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#about" style="background-color:#ffffff;color:rgb(0,0,0);">about</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="menu.html" style="background-color:#ffffff;color:rgb(0,0,0);">menu</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="reservations.html" style="background-color:#ffffff;color:rgb(0,0,0);">reservations</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.html" style="background-color:#ffffff;color:rgb(0,0,0);">contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1 class="text-center">Dinner</h1>
+    <hr>
+    <div>
+        <h2 class="text-center text-primary" style="font-family:Lora, serif;font-size:27px;">1 pm - 6 pm</h2>
+        <div class="row">
+            <div class="col"><img class="d-block" src="assets/img/dinner1.jpg" style="margin-right:auto;margin-left:auto;width:100%;"></div>
+        </div>
+        <p class="text-center">Gluten free options available for select dishes.</p>
+        <h1 class="text-center" style="padding-bottom:50px;">Hors d'oeuvre</h1>
+    </div>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div>
+                        <h1>Tomato Bruschetta</h1>
+                        <p>diced tomatoes tossed with fresh herbs, garlic &amp; olive oil ( 11 )</p>
+                        <div class="row">
+                            <div class="col"><img class="d-block" src="assets/img/tapas4.jpg" style="margin-left:auto;width:100%;"></div>
+                        </div>
+                        <h1>Stuffed Mushroom Caps</h1>
+                        <p>button mushrooms stuffed with homemade sausage, herb stuffing mix and soho dressing ( 15 )</p>
+                        <h1>Crab Cakes</h1>
+                        <p>fresh lump crabmeat folded with our blend of fresh herbs &amp; spices, pan seared, housemade remoulade ( 8.5 )</p>
+                        <h1>Bacon Wrapped Scallops</h1>
+                        <p>fresh sea scallops wrapped in smoked bacon ( 16 )</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h1>Shrimp Cocktail</h1>
+                    <p>jumbo shrimp poached and chilled, served with our zesty homemade cocktail sauce ( 17 )</p>
+                    <div class="row">
+                        <div class="col"><img class="d-block" src="assets/img/tapas5.jpg" style="width:100%;"></div>
+                    </div>
+                    <h1>Grilled Shrimp Skewers</h1>
+                    <p>lightly marinated lemon essence, served with a roasted red pepper coulis drizzle ( 19 )&nbsp;</p>
+                    <div class="row">
+                        <div class="col"><img class="d-block" src="assets/img/tapas6.jpg" style="margin-right:auto;margin-left:auto;width:100%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h1 class="text-center">Salads &amp; Entree</h1>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div>
+                        <h1>Sauteed Shrimp</h1>
+                        <p>fresh kale, roma tomatoes, grated cheese, red onion ( 16 )</p>
+                        <p>add bacon ( 2 )</p>
+                        <div class="row">
+                            <div class="col"><img class="d-block" src="assets/img/salad0.jpg" style="margin-left:auto;width:100%;"></div>
+                        </div>
+                        <h1>Tilapia Salad</h1>
+                        <p>portabella mushrooms, artichoke hearts, olive dressing, grilled tilapia ( 15 )</p>
+                        <h1>Stuffed Tomato</h1>
+                        <p>roma tomato stuffed with the finest ( 8.5 )</p>
+                        <div class="row">
+                            <div class="col"><img class="d-block" src="assets/img/dinner7.jpg" style="margin-right:auto;margin-left:auto;width:100%;"></div>
+                        </div>
+                        <h1>Bouillabaisse Prime Rib</h1>
+                        <p>lemon lime, gooseberry, green herbs and white flower aromas ( 26 )</p>
+                        <h1>Borlengo Chicken</h1>
+                        <p>light-bodied but viscous with red fruit, oak spices, pepper ( 28)</p>
+                        <div class="row">
+                            <div class="col"><img class="d-block" src="assets/img/dinner9.jpg" style="margin-left:auto;width:100%;"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h1>Terre et Mer</h1>
+                    <p>sirloin steak and market fish with a garlic potatoes and spring mix ( 34 )&nbsp;</p>
+                    <div class="row">
+                        <div class="col"><img class="d-block" src="assets/img/salad1.jpg" style="width:100%;"></div>
+                    </div>
+                    <h1>Chicken Confit</h1>
+                    <p>housemade herb de seattle blend and simmered low and slow in duck fat, sweet pickle relish ( 31 )</p>
+                    <h1>Ratatouille</h1>
+                    <p>bountiful harvest of vegetables thinly sliced, served with a creamy tomato soubise sauce ( 22 )&nbsp;</p>
+                    <div class="row">
+                        <div class="col"><img src="assets/img/dinner6.jpg" style="width:100%;"></div>
+                    </div>
+                    <h1>Mushroom Ragout</h1>
+                    <p>ragout of cremini, shitake, and oyster mushrooms in a creamy alfredo sauce, served with capelli pasta, broccolini ( 34 )</p>
+                    <h1>Scallops</h1>
+                    <p>pan-seared scallops wrapped in house-smoked bacon ( 29 )&nbsp;</p>
+                    <div class="row">
+                        <div class="col"><img class="d-block" src="assets/img/dinner8.jpg" style="width:100%;"></div>
+                    </div>
+                    <h1>Prime Rib Onelle&nbsp;</h1>
+                    <p>The top cut, only served rare, topped with housemade onelle crab sauce ( 52 )&nbsp;</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-dark" style="background-color:rgb(0,0,0);">
+        <div style="text-align:center;">
+            <h2 class="divider-style" style="margin-top:0px;"><span style="background-color:rgb(40, 45, 50);"><a href="#"><i class="fa fa-globe"></i></a>&nbsp;YourSite</span></h2>
+        </div>
+        <footer>
+            <div class="container">
+                <div class="row" style="margin-top:20px;">
+                    <div class="col-md-6 item text" style="margin-bottom:0px;">
+                        <h3>YourSite</h3>
+                        <p>An elegant restaurant set in the beautiful Las Vegas desert.</p>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>About</h3>
+                        <ul>
+                            <li><a href="#">Company</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Careers</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="#">Monitoring</a></li>
+                            <li><a href="#">Development</a></li>
+                            <li><a href="#">Reporting</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col item social" style="margin-top:10px;"><input class="form-control-lg" type="email" value="Name@email.com" style="width:200px;height:40px;margin-left:-3px;margin-bottom:11px;margin-top:30px;"><button class="btn btn-primary" type="button" style="width:111px;height:40px;margin-top:-8px;">SUBSCRIBE</button>
+                    <h1
+                        style="font-size:1rem;">YourSite Newsletter</h1>
+                </div>
+                <div class="col item social" style="margin-top:15px;"><a href="#"><i class="fa fa-google"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-github"></i></a><a href="#"><i class="icon ion-social-linkedin"></i></a></div>
+                <div style="text-align:center;margin-top:-40px;">
+                    <h2 class="divider-style"></h2>
+                </div>
+                <p class="copyright">YourSite © 2018</p>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/Sammy-Timeline.js"></script>
+    <script src="assets/js/bs-animation.js"></script>
+    <script src="assets/js/Contact-Form-v2-Modal--Full-with-Google-Map.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+</body>
+
+</html>
